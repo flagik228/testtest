@@ -1,0 +1,5 @@
+﻿  pz14.cpp
+E:\сис прог практики\pz16\pz15\pz14\pz14.cpp(4,1): warning C4005: STRICT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(23,1): message : см. предыдущее определение "STRICT"
+pz14.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: static double __cdecl MathLibrary::Arithmetic::Add(double,double)" (?Add@Arithmetic@MathLibrary@@SANNN@Z) в функции "__int64 __cdecl WindowProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WindowProc@@YA_JPEAUHWND__@@I_K_J@Z).
+E:\сис прог практики\pz16\pz15\x64\Debug\pz14.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
