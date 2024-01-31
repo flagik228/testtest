@@ -1,0 +1,5 @@
+﻿  pz14.cpp
+E:\сис прог практики\pz14\pz14\pz14.cpp(7,1): warning C4005: STRICT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(23,1): message : см. предыдущее определение "STRICT"
+  LINK : не найден или не выполнена сборка E:\сис прог практики\pz14\x64\Debug\pz14.exe при последней инкрементной компоновке; выполняется полная компоновка
+  pz14.vcxproj -> E:\сис прог практики\pz14\x64\Debug\pz14.exe
